@@ -3,6 +3,12 @@ This is a coursework assignment，a project with a NeRF implementation.
 
 ![image](https://github.com/shangxiajiujiu/NeRF-pytorch/assets/72213981/c67c48f4-a3dd-430a-b2bc-644a40842d31)
 
+# Videos
+This is a demo video of the project introduction and deployment  
+
+https://github.com/shangxiajiujiu/NeRF-pytorch/assets/72213981/43e69ead-b6a7-4bf0-94ec-a343d9ff5b5c
+
+
 
 # Dependencies
 PyTorch 1.4  
