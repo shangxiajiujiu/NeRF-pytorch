@@ -17,6 +17,7 @@ numpy
 imageio  
 imageio-ffmpeg  
 configargparse  
+Please ensure that the python version is greater than 3.7 and that the cuda environment is working.  
 Please execute the following command to download the package  
 “pip install -r requirements.txt”  
 
